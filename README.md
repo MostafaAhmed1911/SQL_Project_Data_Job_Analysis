@@ -83,7 +83,7 @@ LIMIT 10;
 
 ### Visualization
 
-![Top Paying Data Analyst Jobs 2023](assets\top_paying_data_analyst_jobs_2023.png)
+![Top Paying Data Analyst Jobs 2023](assets/top_paying_data_analyst_jobs_2023.png)
 *Figure 1: Top 10 highest-paying Data Analyst jobs in 2023 based on average yearly salary.*
 
 ## 2. What skills are required for the top-paying Data Analyst jobs?
@@ -176,7 +176,7 @@ Cloud & Data Engineering Skills
 
 ### Visualization
 
-![Skills Required for Top Paying Data Analyst Jobs](assets\top_paying_job_skills.png)
+![Skills Required for Top Paying Data Analyst Jobs](assets/top_paying_job_skills.png)
 
 *Figure 2: Most common skills required for the top-paying Data Analyst jobs in 2023.*
 
