@@ -33,7 +33,6 @@ The goal of this analysis was to identify the highest-paying Data Analyst roles 
 I filtered Data Analyst job postings with available salary information and focused on remote opportunities to identify the top-paying roles.
 
 ### SQL Query
-
 ```sql
 SELECT
     job_id,
